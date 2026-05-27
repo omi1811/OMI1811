@@ -198,7 +198,6 @@ Deep Q-Network implementation demonstrating:
 # 📫 Connect With Me
 
 * GitHub: [https://github.com/omi1811](https://github.com/omi1811)
-* LinkedIn: Add your LinkedIn URL here
 
 ---
 
